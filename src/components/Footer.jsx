@@ -11,7 +11,7 @@ const Footer = () => {
             <a href="https://github.com/barkhayadav12"><i class="bi bi-github"></i></a>
             <a href="https://www.linkedin.com/in/barkha-yadav-727472212/?originalSubdomain=in"><i class="bi bi-linkedin"></i></a>
             <a href="https://twitter.com/barkhayadav125"><i class="bi bi-twitter-x"></i></a>
-            <a href="#"><i class="bi bi-instagram"></i></a>
+            <a href="https://www.instagram.com/barkhaydv_?igsh=MWl4bzE4OWJsaWRiaQ=="><i class="bi bi-instagram"></i></a>
 
 
         </div>
