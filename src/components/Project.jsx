@@ -50,7 +50,7 @@ const Project = () => {
               </div>
               <h3>FurryMate</h3>
               <p>
-                "Developed an app where the users can adopt a pet or donate a
+                Developed an app where the users can adopt a pet or donate a
                 pet.
               </p>
               <div className="techStack">
